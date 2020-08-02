@@ -16,11 +16,11 @@ For each test case, print N
 lines describing a delicious matrix M. For each valid i, the i-th of these lines should contain N space-separated integers Mi,1,Mi,2,…,Mi,N.
 
 Example Input
-1
 
+1
 2
 
 Example Output
-1 2
 
+1 2
 4 3
