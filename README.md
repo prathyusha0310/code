@@ -17,8 +17,10 @@ lines describing a delicious matrix M. For each valid i, the i-th of these lines
 
 Example Input
 1
+
 2
 
 Example Output
 1 2
+
 4 3
